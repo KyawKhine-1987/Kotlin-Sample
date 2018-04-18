@@ -1,4 +1,4 @@
-package com.android.freelance.sample
+package com.android.freelance.sample.activities
 
 import android.app.LoaderManager
 import android.content.AsyncTaskLoader
@@ -13,8 +13,9 @@ import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
 import android.view.View
 import android.widget.Toast
-import com.android.freelance.sample.adapter.ArticleAdapter
-import com.android.freelance.sample.model.Article
+import com.android.freelance.sample.R
+import com.android.freelance.sample.adapters.ArticleAdapter
+import com.android.freelance.sample.models.Article
 import com.android.freelance.sample.util.QueryUtils
 import kotlinx.android.synthetic.main.activity_main.*
 

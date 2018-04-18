@@ -1,7 +1,7 @@
 package com.android.freelance.sample.util
 
 import android.util.Log
-import com.android.freelance.sample.model.Article
+import com.android.freelance.sample.models.Article
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException

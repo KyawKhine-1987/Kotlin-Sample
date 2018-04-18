@@ -1,4 +1,4 @@
-package com.android.freelance.sample.model
+package com.android.freelance.sample.models
 
 /**
  * Created by Kyaw Khine on 12/05/2017.

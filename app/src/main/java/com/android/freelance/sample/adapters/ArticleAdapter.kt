@@ -1,4 +1,4 @@
-package com.android.freelance.sample.adapter
+package com.android.freelance.sample.adapters
 
 import android.support.v7.widget.RecyclerView
 import android.util.Log
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import com.android.freelance.sample.R
-import com.android.freelance.sample.model.Article
+import com.android.freelance.sample.models.Article
 
 /**
  * Created by Kyaw Khine on 12/06/2017.
